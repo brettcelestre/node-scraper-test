@@ -1,0 +1,25 @@
+{
+  "name": "node-scraper-test",
+  "version": "1.0.0",
+  "description": "Node.js Scraper Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettcelestre/node-scraper-test.git"
+  },
+  "author": "Brett Celestre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brettcelestre/node-scraper-test/issues"
+  },
+  "homepage": "https://github.com/brettcelestre/node-scraper-test#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "osmosis": "^1.1.2",
+    "prettyjson": "^1.2.1"
+  }
+}
