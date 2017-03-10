@@ -18,8 +18,15 @@
   },
   "homepage": "https://github.com/brettcelestre/node-scraper-test#readme",
   "dependencies": {
+    "axios": "^0.15.3",
+    "cheerio": "^0.22.0",
+    "cheerio-tableparser": "^1.0.1",
+    "css2xpath": "0.0.1",
     "express": "^4.15.2",
     "osmosis": "^1.1.2",
-    "prettyjson": "^1.2.1"
+    "phantomjs": "^2.1.7",
+    "prettyjson": "^1.2.1",
+    "scraperjs": "^1.2.0",
+    "webpage": "^0.3.0"
   }
 }
